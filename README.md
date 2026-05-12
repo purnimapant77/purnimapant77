@@ -21,7 +21,7 @@
 
 BSc CSIT student at **Padmakanya Multiple Campus, Tribhuvan University** — 5th semester.
 
-I started with C, got genuinely hooked, and never stopped. Right now I'm focused on **machine learning** and **full-stack web development with Django**. I like building things that solve real problems — predicting car prices, recommending movies, mapping bus routes across Kathmandu. Outside coursework I'm also preparing for **Lok Sewa Aayog** civil service exams (Computer Operator & Assistant Computer Operator).
+I started with C and right now I'm focused on **machine learning** and **web development with Django**. I like building things that solve real problems — predicting car prices, recommending movies, mapping bus routes across Kathmandu. 
 
 ```python
 purnima = {
@@ -49,6 +49,7 @@ purnima = {
 **Web Development**
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -68,23 +69,21 @@ purnima = {
 
 ## 📂 Featured projects
 
-| Project | Description | Stack | Status |
+| Project | Description | Stack |
 |---|---|---|---|
-| 🚌 **[KTM Bus Route Finder](https://github.com/purnimapant77)** | Find bus routes across Kathmandu valley — real local problem, real solution | Python, Django | ✅ Live |
-| 🎬 **[Movie Recommender System](https://github.com/purnimapant77)** | Content-based filtering model using real movie metadata | Python, Scikit-learn, Pandas | ✅ Live |
-| 🚗 **[Car Price Predictor](https://github.com/purnimapant77)** | Regression model predicting used car prices from brand, year, mileage, fuel type | Python, Scikit-learn, Seaborn | ✅ Live |
-| 🧠 **[Learning Difficulty Detection](https://github.com/purnimapant77)** | Classifies potential learning difficulties using student behavioural & academic data | Python, ML, Scikit-learn | ✅ Live |
-| 🛍️ **[MyShop — E-commerce](https://github.com/purnimapant77)** | Full-stack Django store with product management, user auth & cart | Django, SQLite, HTML/CSS | 🔧 In progress |
-| 🏏 **[NPL Cricket Scorecard](https://github.com/purnimapant77)** | Database-backed scorecard with admin panel, search & live views | Django, Python, SQLite | ✅ Live |
+| 🚌 **[KTM Bus Route Finder](https://github.com/purnimapant77)** | Find bus routes across Kathmandu valley — real local problem, real solution | Python, Django |
+| 🎬 **[Movie Recommender System](https://github.com/purnimapant77)** | NLP-based content based filtering model using real movie metadata, served via Flask | Python, Flask, NLP, Scikit-learn | 
+| 🚗 **[Car Price Predictor](https://github.com/purnimapant77)** | Regression model predicting used car prices from brand, year, mileage, fuel type | Python, Scikit-learn, Seaborn | 
+| 🧠 **[Learning Difficulty Detection](https://github.com/purnimapant77)** | Classifies potential learning difficulties using academic data | Python, ML, Scikit-learn |
+| 🛍️ **[MyShop — E-commerce](https://github.com/purnimapant77)** | Full-stack e commerce website | HTML, CSS, Javascript, php |
+| 🏏 **[NPL Cricket Scorecard](https://github.com/purnimapant77)** | Database-backed scorecard with admin panel,| Flask, Python, SQLite |
 
 ---
 
 ## 🚀 Currently learning
 
-- 📌 **Django advanced** — REST APIs, class-based views, deployment
-- 📌 **ML deeper dive** — model tuning, feature engineering, real datasets
-- 📌 **5th semester CSIT** — algorithms, cryptography, data science
-- 📌 **Lok Sewa Aayog prep** — Computer Operator & Assistant Computer Operator
+- 📌 **Django advanced** 
+- 📌 **ML deeper dive** 
 
 ---
 
