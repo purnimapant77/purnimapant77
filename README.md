@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Purnima+%F0%9F%91%8B;BSc+CSIT+%7C+ML+%2B+Django;Building+real+things+from+KTM+%F0%9F%87%B3%F0%9F%87%B5)](https://git.io/typing-svg)
 
 <br/>
@@ -19,17 +18,18 @@
 
 ## 👩‍💻 About me
 
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300" align="right"/>
+
 BSc CSIT student at **Padmakanya Multiple Campus, Tribhuvan University** — 5th semester.
 
-I started with C and right now I'm focused on **machine learning** and **web development with Django**. I like building things that solve real problems — predicting car prices, recommending movies, mapping bus routes across Kathmandu. 
+I started with C and right now I'm focused on **machine learning** and **web development with Django**. I like building things that solve real problems — predicting car prices, recommending movies, mapping bus routes across Kathmandu.
 
 ```python
 purnima = {
     "location"  : "Kathmandu, Nepal 🇳🇵",
     "university": "Padmakanya Campus · TU · BSc CSIT · Sem 5",
     "focus"     : ["Machine Learning", "Django", "Data Science"],
-    "currently" : "Building ML projects + preparing for Lok Sewa",
-    "fun_fact"  : "Cricket fan who turned it into a coding project 🏏"
+    "currently" : "Building ML and Django projects"
 }
 ```
 
@@ -70,30 +70,31 @@ purnima = {
 ## 📂 Featured projects
 
 | Project | Description | Stack |
-|---|---|---|---|
-| 🚌 **[KTM Bus Route Finder](https://github.com/purnimapant77)** | Find bus routes across Kathmandu valley — real local problem, real solution | Python, Django |
-| 🎬 **[Movie Recommender System](https://github.com/purnimapant77)** | NLP-based content based filtering model using real movie metadata, served via Flask | Python, Flask, NLP, Scikit-learn | 
-| 🚗 **[Car Price Predictor](https://github.com/purnimapant77)** | Regression model predicting used car prices from brand, year, mileage, fuel type | Python, Scikit-learn, Seaborn | 
-| 🧠 **[Learning Difficulty Detection](https://github.com/purnimapant77)** | Classifies potential learning difficulties using academic data | Python, ML, Scikit-learn |
-| 🛍️ **[MyShop — E-commerce](https://github.com/purnimapant77)** | Full-stack e commerce website | HTML, CSS, Javascript, php |
-| 🏏 **[NPL Cricket Scorecard](https://github.com/purnimapant77)** | Database-backed scorecard with admin panel,| Flask, Python, SQLite |
+|---|---|---|
+| 🚌 [KTM Bus Route Finder](https://github.com/purnimapant77) | Find bus routes across Kathmandu valley — real local problem, real solution | Python, Django |
+| 🎬 [Movie Recommender System](https://github.com/purnimapant77) | NLP-based content based filtering model using real movie metadata, served via Flask | Python, Flask, NLP, Scikit-learn |
+| 🚗 [Car Price Predictor](https://github.com/purnimapant77) | Regression model predicting used car prices from brand, year, mileage, fuel type | Python, Scikit-learn, Seaborn |
+| 🧠 [Learning Difficulty Detection](https://github.com/purnimapant77) | Classifies potential learning difficulties using academic data | Python, ML, Scikit-learn |
+| 🛍️ [MyShop — E-commerce](https://github.com/purnimapant77) | Full-stack e commerce website | HTML, CSS, Javascript, PHP |
+| 🏏 [NPL Cricket Scorecard](https://github.com/purnimapant77) | Database-backed scorecard with admin panel | Django, Python, SQLite |
 
 ---
 
 ## 🚀 Currently learning
 
-- 📌 **Django advanced** 
-- 📌 **ML deeper dive** 
+- 📌 **Django advanced**
+- 📌 **ML deeper dive**
 
 ---
+
 
 ## 📊 GitHub stats
 
 <div align="center">
 
-![Purnima's GitHub stats](https://github-readme-stats.vercel.app/api?username=purnimapant77&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Purnima's GitHub stats](https://github-readme-stats.vercel.app/api?username=purnimapant77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 &nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=purnimapant77&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=purnimapant77&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
