@@ -4,8 +4,6 @@
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=purnimapant77&style=flat&color=58a6ff&label=profile+views)
-&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purnima-pant-664663313)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:purnimaaaa7@gmail.com)
