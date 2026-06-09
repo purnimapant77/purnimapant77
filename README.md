@@ -80,7 +80,7 @@ purnima = {
 
 ## 🚀 Currently learning
 
-- 📌 **Django advanced**
+- 📌 **Django**
 - 📌 **ML deeper dive**
 
 ---
