@@ -53,6 +53,11 @@ purnima = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
+**UI/UX & Design**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Balsamiq](https://img.shields.io/badge/Balsamiq-CE3937?style=flat&logo=balsamiq&logoColor=white)
+
 **Languages & Tools**
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
